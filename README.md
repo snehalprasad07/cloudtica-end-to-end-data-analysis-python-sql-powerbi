@@ -102,4 +102,7 @@ Industry Targeting: Industries generating strong revenue should receive speciali
 <a href="https://github.com/snehalprasad07/cloudtica-end-to-end-data-analysis-python-sql-powerbi/blob/main/Product%20Analysis%20Page%20Screenshot.png">Product Analysis Page</a>
 
 <a href="https://github.com/snehalprasad07/cloudtica-end-to-end-data-analysis-python-sql-powerbi/blob/main/Customer%20Analysis%20Page%20Screenshot.png">Customer Analysis Page</a>
+# Presentation
+<a href="https://github.com/snehalprasad07/cloudtica-end-to-end-data-analysis-python-sql-powerbi/blob/main/Cloudtica%20Presentation.ppsx">View ppt</a>
 
+<a href="https://github.com/snehalprasad07/cloudtica-end-to-end-data-analysis-python-sql-powerbi/blob/main/Cloudtica%20Presentation.pdf">View pdf</a>
